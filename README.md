@@ -1,4 +1,4 @@
-def alternate_case(text):
+def alternate_case(tex):
     result = []
     upper = True
 
